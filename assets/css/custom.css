@@ -1,3 +1,47 @@
 :root {
     --couleur-primaire : #2a6442;
 }
+:root {
+    --couleur-primaire : black;
+}
+
+<link href='http://fonts.googleapis.com/css?family=Urbanist' rel='stylesheet' type='text/css' />
+
+body {
+color: white;
+background-color: black;
+font-family: Urbanist;
+}
+
+a {
+color: #969696;
+}
+
+h1 {
+font-size: 28px;
+color: white;
+}
+
+h2 {
+color: #00ff00;
+font-family: Urbanist;
+}
+
+h3 {
+color: #ff0000;
+font-family: Urbanist;
+}
+
+table, td, th {
+  border: 1px solid #000000;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+nav ul::before {
+  content: "la brasserie au bord du lit";
+  width: 550px;
+}
