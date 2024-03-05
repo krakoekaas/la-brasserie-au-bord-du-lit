@@ -3,7 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-![logo({% link images/logocomplet-blanc.png %})
+![logo]({% link images/logocomplet-blanc.png %})
 
 Juste une brasserie, rurale et villageoise.
 
