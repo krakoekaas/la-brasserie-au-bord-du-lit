@@ -3,6 +3,10 @@ title: "Nos bières"
 order: 1
 in_menu: true
 ---
+Le brasseur, qui vient de Belgique, essaie d'apporter, par sa connaissance des différentes bières, des produits un peu différents et surtout complémentaires à ce qui est produit actuellement dans les Pyrénées Orientales.
+
+Il y a actuellement 4 bières permanentes :
+
 # La Josette - Golden Ale - alc. 4.5%
 Cette bière de style anglais utilise des houblons que l'on retrouve habituellement dans les pilsners allemandes et tchèques.
 
