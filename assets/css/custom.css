@@ -37,8 +37,3 @@ table {
   width: 100%;
   border-collapse: collapse;
 }
-
-nav ul::before {
-  content: "la brasserie au bord du lit";
-  width: 550px;
-}
