@@ -3,6 +3,6 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# L'Échappée Belle
+Juste une brasserie, rurale et villageoise.
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Les bouteilles sont consignées et livrées dans des caisses en plastique réutilisables. Nous travaillons surtout sur le recyclage de nos déchets, la réduction de la consommation d'eau et la récupération et réutilisation des eaux usées. 
